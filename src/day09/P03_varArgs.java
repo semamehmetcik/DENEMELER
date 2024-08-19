@@ -1,6 +1,6 @@
 package day09;
 
-public class P02_varArgs {
+public class P03_varArgs {
     public static void main(String[] args) {
         //  verilen Stringleri birlestiren concat isimli bir method olusturunuz
         // input : "m", "e", "r", "v", "e";

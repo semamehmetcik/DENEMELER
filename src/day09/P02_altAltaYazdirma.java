@@ -1,6 +1,6 @@
 package day09;
 
-public class P01_altAltaYazdirma {
+public class P02_altAltaYazdirma {
     public static void main(String[] args) {
 
         /*
