@@ -1,3 +1,5 @@
+package MARKET;
+
 import java.util.Scanner;
 
 public class T145_Market {
