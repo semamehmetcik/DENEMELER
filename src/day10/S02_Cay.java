@@ -35,5 +35,8 @@ public class S02_Cay {
             System.out.println("Yillik seker tüketiminiz: "+yilliksekertuketimi);
             System.out.println("Kirk yilllik seker tüketiminiz: "+kirkyilliksekertuketimi);
         }
+        else {
+            System.out.println("Negatif değer girilemez." );
+        }
     }
 }
